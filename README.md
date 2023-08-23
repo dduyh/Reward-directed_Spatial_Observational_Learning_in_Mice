@@ -1,2 +1,2 @@
 # Reward_directed_Spatial_Observational_Learning_in_Mice
-codes for my master thesis
+Codes for my Master's Thesis at ETH Zürich.
