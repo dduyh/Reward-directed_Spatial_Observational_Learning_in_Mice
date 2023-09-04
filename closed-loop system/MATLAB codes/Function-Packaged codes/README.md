@@ -35,3 +35,12 @@
 
   &ensp; OL_obs_testing_session.m
 
+## Parameters Setting functions
+1 Observer learning session.
+
+  &ensp; OL_obs_learning_session.m
+
+2 Observer testing session.
+
+  &ensp; OL_obs_testing_session.m
+
