@@ -20,3 +20,16 @@
 1 Demo mouse training.
 
   &ensp; OL_real_time_task_control_DYH_v5.m
+  
+2 Demo mouse training multiple trials with tone. (optional)
+
+  &ensp; OL_multi_trials_w_tone_v2.m  
+
+## Observational Learning session
+1 Observer learning session.
+
+  &ensp; OL_obs_learning_session.m
+
+2 Observer testing session.
+
+  &ensp; OL_obs_testing_session.m
