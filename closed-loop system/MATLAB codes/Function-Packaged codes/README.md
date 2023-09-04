@@ -20,15 +20,15 @@
 ## Single Mice Training session
 1 Mode 5: Demo mouse training.
 
-  &ensp; OL_real_time_task_control_DYH_v5.m
+  &ensp; OL_demo_training.m
   
 2 Mode 6: Observer mouse training.
 
-  &ensp; OL_multi_trials_w_tone_v2.m  
+  &ensp; OL_obs_training.m  
   
 3 Mode 7: Demo mouse training multiple trials with tone. (optional)
 
-  &ensp; OL_multi_trials_w_tone_v2.m  
+  &ensp; OL_multi_trials_w_tone.m  
 
 
 ## Observational Learning session
@@ -41,11 +41,35 @@
   &ensp; OL_obs_testing_session.m
 
 ## Parameters Setting functions
-1 Observer learning session.
+1 Arduino board initialization.
 
-  &ensp; OL_obs_learning_session.m
+  &ensp; arduino_initialization.m
 
-2 Observer testing session.
+2 Initiate video of maze.
 
-  &ensp; OL_obs_testing_session.m
+  &ensp; video_initialization_maze.m
+
+3 Get background image. 
+
+  &ensp; background_image.m  
+
+4 Initiate video of cage.
+
+  &ensp; video_initialization_cage.m
+
+5 Get coordinates of inner boundary of left cage.
+
+  &ensp; cage_coordinates_inner_left.m
+
+6 Get coordinates of outer boundary of left cage.
+
+  &ensp; cage_coordinates_outer_left.m
+
+7 Get coordinates of inner boundary of right cage.
+
+  &ensp; cage_coordinates_inner_right.m
+
+8 Get coordinates of outer boundary of right cage.
+
+  &ensp; cage_coordinates_outer_right.m
 
