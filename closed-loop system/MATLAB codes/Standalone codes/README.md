@@ -2,7 +2,7 @@
 ## Habituation session
 1 Drop one pellet every 30 secs for demo mouse.
 
-  &nbsp;pellet_habituation_left.m
+  &ensp; pellet_habituation_left.m
 
 2 Drop one pellet every 30 secs for observer mouse.
 
