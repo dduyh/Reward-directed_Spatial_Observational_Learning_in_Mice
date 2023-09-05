@@ -1,1 +1,1 @@
-codes used to analysis mouse behavioral data.
+Codes used to analysis mouse behavioral data.
